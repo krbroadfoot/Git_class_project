@@ -1,6 +1,6 @@
-instructors = ["Andrea"]
+instructors = ["Homer"]
 fo i in instructors:
-	if i=="Andrea:
+	if i=="Homer":
 		instructors +=["Kyle"]
 	if i=="Kyle":
 		instructors+=["Jennifer"]
